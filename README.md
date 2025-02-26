@@ -1,3 +1,3 @@
 # Kanban
 Devoir de groupe
-RABENJA Aarom Maharinisoa
+RABENJA Aaron Maharinisoa
